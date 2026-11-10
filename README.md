@@ -201,4 +201,4 @@ This repository serves as the official landing page for Splunk. The software is 
 **Get the most recent version of Splunk today!**
 
 ---
-**Last updated:** 2026-11-10 17:32:10 UTC
+**Last updated:** 2026-11-10 22:55:56 UTC
